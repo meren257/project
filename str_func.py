@@ -1,5 +1,12 @@
 def upper_(text):
     """
-    Всезаглавные буквы
+    Все заглавные буквы
     """
     return text.upper()
+
+
+def title_(text):
+    """
+    Первые буквы заглавные
+    """
+    return text.title()
